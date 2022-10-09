@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KundanDhore
+- 👋 Hi, I’m Kundan Dhore
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently exploring Data science with various projects that helps me to learn new things.
-- 💞️ I’m puersuing Information Technology Engineering from Rajiv Gandhi Insitute of Technology, Mumbai.
+- 💞️ I’m pursuing Information Technology Engineering from Rajiv Gandhi Insitute of Technology, Mumbai.
 - 📫 Reach me at kundandhore14@gmail.com if need.
 
 <!---
